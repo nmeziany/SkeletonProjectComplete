@@ -112,7 +112,7 @@ li {
 }
 
 .boxworks {
-  display: flex;
+  display: grid;
   align-content: space-around;
   flex-direction: column;
   background-color: #e5e5e5;
