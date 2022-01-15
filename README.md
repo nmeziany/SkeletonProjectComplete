@@ -4,7 +4,7 @@ In this project I created a mobile version of a Portfolio integrating some featu
 - A header with navigation bar and menu including a logo.
 - A presentation section that provides general informations for the portfolio's owner.
 - A section to show the projects created by the portfolio's owner.
-- 
+- An about me section
 ![screenshot](./Screenshot1.png)
 ![screenshot](./Screenshot2.png)
 
